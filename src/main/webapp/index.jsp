@@ -1,17 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Servlet Example</title>
+    <title>Servlet Navigation</title>
 </head>
 <body>
-    <h1>Welcome to the Servlet Example Application</h1>
-    <p>Use the following links to test the servlets:</p>
+    <h1>Servlet Navigation</h1>
     <ul>
         <li><a href="FrontServlet">FrontServlet</a></li>
-        <li><a href="FrontServlet/HrServlet">FrontServlet -> HrServlet</a></li>
+        <li><a href="FrontServlet/HrServlet">HrServlet</a></li>
         <li><a href="FrontServlet/HrServlet/ProjectServlet">FrontServlet -> HrServlet -> ProjectServlet</a></li>
     </ul>
 </body>
 </html>
-
-
